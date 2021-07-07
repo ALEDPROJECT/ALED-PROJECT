@@ -1,6 +1,6 @@
-[![Discord](https://img.shields.io/discord/698860395938578443?color=blue&label=%D1%87%D0%B0%D1%82&style=for-the-badge)](https://discord.gg/rQHRex2)
+[![Discord](https://img.shields.io/badge/discord-ALED PROJECT 2.0-purple?style=for-the-badge)](https://discord.gg/rQHRex2)
 
-[![Discord](https://img.shields.io/badge/666--purple?style=for-the-badge)]()
+[![Discord](https://img.shields.io/badge/Скачать-тему discord-black?style=for-the-badge)](https://github.com/ALEDPROJECT/ALED-PROJECT/releases/download/14.7/aledproject.theme.css)
 
 # About
 
