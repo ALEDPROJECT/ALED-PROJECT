@@ -4,7 +4,7 @@
 
 [![Download](https://img.shields.io/badge/Скачать-ТЕМУ-black?style=for-the-badge)](https://github.com/ALEDPROJECT/ALED-PROJECT/releases/download/14.7/aledproject.theme.css)
 ---
-## ТЕМА
+## ТЕМА ALED PROJECT
 
 ![](theme.png)
 ## ПРОФИЛЬ ПОЛЬЗОВАТЕЛЯ
@@ -12,7 +12,7 @@
 ![](profile.png)
 ## НАСТРОЙКИ В ОКНЕ
 
-![](setings.png)
+![](settings.png)
 ## МЕНЮ ВЫБОРА СТАТУСА
 
 ![](statusmenu.png)
