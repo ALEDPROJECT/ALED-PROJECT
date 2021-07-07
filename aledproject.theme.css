@@ -1,8 +1,8 @@
 /**
  * @name ALED PROJECT THEME
- * @description Stable v2.0
+ * @description Stable v2.1
  * @author ALED PROJECT
- * @version 14.7
+ * @version 14.58
  * @authorId 470573716711931905
  * @invite rQHRex2
  * @website 
@@ -65,24 +65,18 @@
 }
 :root .pointerEvents-2zdfdO {
   mask: none;
-  pointer-events: none;
 }
 :root .pointerEvents-2zdfdO[width="8"]:not([mask="url(#svg-mask-status-online-mobile)"]), :root .pointerEvents-2zdfdO[width="10"]:not([mask="url(#svg-mask-status-online-mobile)"]), :root .pointerEvents-2zdfdO[width="12"]:not([mask="url(#svg-mask-status-online-mobile)"]), :root .pointerEvents-2zdfdO[width="16"]:not([mask="url(#svg-mask-status-online-mobile)"]) {
   rx: var(--status-radius);
 }
-:root .pointerEvents-2zdfdO[width="25"], :root .pointerEvents-2zdfdO[mask="url(#svg-mask-status-online-mobile)"] {
-  rx: 5px;
+:root .pointerEvents-2zdfdO[width="8"], :root .pointerEvents-2zdfdO[mask="url(#svg-mask-status-online-mobile)"] {
+  rx: var(--status-radius);
 }
 :root .mask-1l8v16, :root .userInfo-2zN2z8 {
   overflow: visible;
 }
 :root .cursorDefault-dsQJ1n, :root .mask-1l8v16 > svg {
   overflow: visible;
-}
-:root .userPopout-xaxa6l .mask-1l8v16 > svg > mask > rect:first-child {
-  x: 18;
-  y: 14 !important;
-  ry: var(--status-radius);
 }
 :root div:not(.avatarWrapper-2yR4wp) .mask-1l8v16 > svg > mask > rect:first-child {
   y: 8;
@@ -115,7 +109,7 @@
 :root .nowPlayingColumn-2sl4cE .pointerEvents-2zdfdO {
   height: 12px;
   y: 24;
-  stroke-width: 2.5px;
+  stroke-width: 2.0px;
 }
 :root .channel-2QD9_O .pointerEvents-2zdfdO[width="10"]:not([mask="url(#svg-mask-status-online-mobile)"]),
 :root .members-1998pB .pointerEvents-2zdfdO[width="10"]:not([mask="url(#svg-mask-status-online-mobile)"]),
@@ -123,7 +117,9 @@
 :root .peopleListItem-2nzedh .pointerEvents-2zdfdO[width="10"]:not([mask="url(#svg-mask-status-online-mobile)"]),
 :root .nowPlayingColumn-2sl4cE .pointerEvents-2zdfdO[width="10"]:not([mask="url(#svg-mask-status-online-mobile)"]) {
   width: 12px;
+  height: 12px;
   x: 24;
+  y: 24;
 }
 :root .channel-2QD9_O .pointerEvents-2zdfdO[mask="url(#svg-mask-status-online-mobile)"],
 :root .members-1998pB .pointerEvents-2zdfdO[mask="url(#svg-mask-status-online-mobile)"],
@@ -131,9 +127,9 @@
 :root .nowPlayingColumn-2sl4cE .pointerEvents-2zdfdO[mask="url(#svg-mask-status-online-mobile)"],
 :root .menu-3sdvDG .pointerEvents-2zdfdO[mask="url(#svg-mask-status-online-mobile)"] {
   width: 12px;
-  height: 16px;
+  height: 12px;
   x: 24;
-  y: 20;
+  y: 24;
 }
 :root .avatarWrapper-2yR4wp[aria-expanded=true] .pointerEvents-2zdfdO {
   x: 24;
@@ -142,12 +138,12 @@
 :root .listAvatar-1NlAhb .pointerEvents-2zdfdO {
   x: 30;
   y: 30;
-  stroke-width: 2.5px;
+  stroke-width: 2.0px;
 }
 :root .menu-3sdvDG .pointerEvents-2zdfdO:not([mask="url(#svg-mask-status-online-mobile)"]) {
   width: 10px;
   height: 10px;
-  stroke-width: 2.5px;
+  stroke-width: 2.0px;
 }
 :root .menu-3sdvDG .pointerEvents-2zdfdO {
   stroke: var(--background-tertiary);
@@ -162,22 +158,25 @@
   overflow: visible;
 }
 :root .wrapper-3t9DeA .dots-3Bkt3k g {
-  transform: translateY(2.5px);
+  transform: translateY(2.0px);
 }
 :root .userPopout-xaxa6l .pointerEvents-2zdfdO {
-  x: 66;
-  y: 66;
-  width: 20px;
-  height: 20px;
-  rx: calc(var(--status-radius) + 1px) !important;
-  stroke-width: 4px;
+  x: 60;
+  y: 60;
+  width: 25px;
+  height: 25px;
+  rx: calc(var(--status-radius) + 0px) !important;
+  stroke-width: 3px;
   stroke: var(--background-tertiary);
 }
 :root .userPopout-xaxa6l .pointerEvents-2zdfdO[mask="url(#svg-mask-status-online-mobile)"] {
-  x: 64;
-  y: 56;
-  height: 28px;
-  rx: 8px !important;
+  x: 60;
+  y: 60;
+  width: 25px;
+  height: 25px;
+  rx: calc(var(--status-radius) + 0px) !important;
+  stroke-width: 3px;
+  stroke: var(--background-tertiary);
 }
 :root .wrapper-3t9DeA foreignObject, :root .callAvatarMask-1SLlRi foreignObject,
 :root .avatarContainer-3CQrif foreignObject, :root .avatarMasked-3y6o4j {
@@ -206,11 +205,6 @@
 }
 
 /** ---- Chat Area ---- **/
-.noChannel-Z1DQK7 .image-1GzsFd {
-  width: 480px !important;
-  height: 293px !important;
-  background-image: url("https://images2.imgbox.com/44/ba/e7Bdvoxc_o.jpg") !important;
-}
 .emojiButton-3uL3Aw {
   margin-right: 14px;
 }
@@ -244,5 +238,3 @@ foreignObject[mask] {
 #app-mount .scroller-2FKFPG::-webkit-scrollbar-thumb {
   min-height: 2px;
 }
-
-/** ---- BetterDiscord Stuff ---- **/
