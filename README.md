@@ -1,6 +1,8 @@
 [![Discord](https://img.shields.io/badge/discord-ALEDPROJECT-purple?style=for-the-badge)](https://discord.gg/rQHRex2)
-[![Discor](https://img.shields.io/badge/Скачать-тему-black?style=for-the-badge)](https://github.com/ALEDPROJECT/ALED-PROJECT/releases/download/14.7/aledproject.theme.css)
-[![Disco](https://img.shields.io/badge/Скачать-тему-black?style=for-the-badge)](https://github.com/ALEDPROJECT/ALED-PROJECT/releases/download/14.7/aledproject.theme.css)
+
+[![Download](https://img.shields.io/badge/Скачать-ТЕМУ-black?style=for-the-badge)](https://github.com/ALEDPROJECT/ALED-PROJECT/releases/download/14.7/aledproject.theme.css)
+
+[![DetterDiscord](https://img.shields.io/badge/Скачать-BETTERDISCORD-black?style=for-the-badge)](https://betterdiscord.app)
 
 # ТЕМА ALED PROJECT 2.0
 
