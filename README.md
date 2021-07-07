@@ -4,9 +4,10 @@
 
 [![Download](https://img.shields.io/badge/Скачать-ТЕМУ-black?style=for-the-badge)](https://github.com/ALEDPROJECT/ALED-PROJECT/releases/download/14.7/aledproject.theme.css)
 
-```bash
-git clone https://github.com/Lightcord/Lightcord
-cd Lightcord
-npm run devInstall
-npm test
+```elm
+         Dfhjfhjhj
+____________________________________
+---------------------------- VJJNJ
+KBKJBKJK
+GKGJKGJK____________________
 ```
