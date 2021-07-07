@@ -10,12 +10,15 @@
 
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/SettingsModal/SettingsModal.css);
 
+.status-mz5rqq,
+.avatar-SmRMf2 rect {
+  display: none;
+}
 :root {
 	--settingsmodalbackground: transparent;
-	--settingsmodalwidth: 960px;
+	--settingsmodalwidth: 1000px;
 	--settingsmodalheight: 80vh;
 }
-
 :root {
   --user-buttons-spacing: 8px;
   --avatar-left: 327.5px;
