@@ -1,13 +1,13 @@
 [![Discord](https://img.shields.io/badge/discord-ALEDPROJECT-purple?style=for-the-badge)](https://discord.gg/rQHRex2)
 
-[![Download](https://img.shields.io/badge/Скачать-ТЕМУ-black?style=for-the-badge)](https://github.com/ALEDPROJECT/ALED-PROJECT/releases/download/14.7/aledproject.theme.css)
-
 [![DetterDiscord](https://img.shields.io/badge/Скачать-BETTERDISCORD-black?style=for-the-badge)](https://betterdiscord.app)
+
+[![Download](https://img.shields.io/badge/Скачать-ТЕМУ-black?style=for-the-badge)](https://github.com/ALEDPROJECT/ALED-PROJECT/releases/download/14.7/aledproject.theme.css)
 
 # ТЕМА ALED PROJECT 2.0
 
 [Lightcord](https://lightcord.org) is a simple and customizable client for Discord.
-It includes [BandagedBD](https://betterdiscord.app), [Glasstron](https://github.com/AryToNeX/Glasstron) and a [discord.js-like api](https://github.com/Lightcord/Lightcord/tree/master/DiscordJS).
+It includes [Betterd](https://betterdiscord.app), [Glasstron](https://github.com/AryToNeX/Glasstron) and a [discord.js-like api](https://github.com/Lightcord/Lightcord/tree/master/DiscordJS).
 
 # Features
 
