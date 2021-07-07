@@ -1,7 +1,6 @@
 [![Discord](https://img.shields.io/discord/698860395938578443?color=blue&label=%D1%87%D0%B0%D1%82&style=for-the-badge)](https://discord.gg/rQHRex2)
-[![Discord](https://img.shields.io/discord/698860395938578443?color=blue&label=%D1%87%D0%B0%D1%82&style=for-the-badge)](https://discord.gg/rQHRex2)
-[![Discord](https://img.shields.io/discord/698860395938578443?color=blue&label=%D1%87%D0%B0%D1%82&style=for-the-badge)](https://discord.gg/rQHRex2)
-[![Discord](https://img.shields.io/discord/698860395938578443?color=blue&label=%D1%87%D0%B0%D1%82&style=for-the-badge)](https://discord.gg/rQHRex2)
+
+[![Discord](https://img.shields.io/badge/666-666-red?style=for-the-badge&logo=)]()
 
 # About
 
