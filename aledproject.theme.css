@@ -1,11 +1,11 @@
 /**
- * @name ALED PROJECT THEME
- * @description Stable v2.1
+ * @name Aled theme
+ * @description Stable v3.1
  * @author ALED PROJECT
- * @version 14.58
+ * @version 73.2
  * @authorId 470573716711931905
  * @invite rQHRex2
- * @website 
+ * @website https://aledproject.github.io
  */
 
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/SettingsModal/SettingsModal.css);
@@ -15,38 +15,73 @@
   display: none;
 }
 :root {
-	--settingsmodalbackground: transparent;
-	--settingsmodalwidth: 1000px;
-	--settingsmodalheight: 80vh;
-}
-:root {
+  --settingsmodalbackground: transparent;
+  --settingsmodalwidth: 1000px;
+  --settingsmodalheight: 80vh;
   --user-buttons-spacing: 8px;
   --avatar-left: 327.5px;
   --avatar-bottom: 26.5px;
   --avatar-radius: 5px;
   --status-radius: 3px;
   --status-menu-radius: 2px;
-  --server-radius: 8px;
+  --server-radius: 6px;
   --role-radius: 3px; 
   --role-circle: 12px;
   --avatar-width: 130px;
-  --colored-emoji: grayscale(0%);
-  --mention-color: #f04747;
-  --unread-color: #7289da;
-  --mention-color-bar: #C66262;
-  --mention-color-background: #c662621f;
-  --mention-color-hover: #c6626226;
-  --spotify-in-discord__spotify-brand-color: #1ed760;
-  --spotify-color: #1ed760 !important;
   --user-buttons-color: #fffd82;
-  --chat-buttons: #6E85D3;
   --online: #43B581;
   --iddle: #FAA61A;
   --dnd: #F04747;
   --offline: #747F8D;
   --streaming: #593695;
-  --tooltips: block;
-  --discord-logo: none;
+}
+:root{
+    --title-gradient:linear-gradient(to right,#37b1da 0,#c948cd 50%,#cce335 100%);
+    --primary-color:#75a00d;
+    --app-color:#111;
+    --text-color:#cbcbcb;
+}
+.typeWindows-1za-n7{
+    height:27px;
+    background:var(--primary-color);
+    margin-top:0px!important;
+    background:var(--title-gradient);
+    box-shadow:inset 0 -24px 0 0 var(--app-color),inset 0 -25px 0 0 rgba(0,0,0,0.5);
+}
+
+.winButton-iRh8-Z{
+    top: 3px!important
+}
+.wordmark-2iDDfm::before{
+    content:'ALED';
+    font-size:20px;
+    z-index:1000;
+    position:fixed;
+    display:inline-block;
+    color:var(--text-color);
+    height:auto;
+    top:4px;
+    left:10px;
+}
+.wordmark-2iDDfm::after{
+    content:'PROJECT';
+    font-size:20px;
+    z-index:1000;
+    position:fixed;
+    display:inline-block;
+    color:var(--primary-color);
+    height:auto;
+    top:4px;
+    left:63px;
+}
+
+.wordmark-2iDDfm svg{
+    display: none
+}
+#app-mount .lowerBadge-29hYVK .base-PmTxvP,
+#app-mount .upperBadge-2XnnGB .base-PmTxvP,
+#app-mount .upperLeftBadge-e35IpL .base-PmTxvP {
+  border-radius: 3px;
 }
 :root .panels-j1Uci_ > .container-3baos1 > .flex-1xMQg5 > .button-14-BFJ {
   color: var(--user-buttons-color);
@@ -206,12 +241,10 @@
 :root .flexChild-faoVW3 .avatarUploaderInner-3UNxY3 {
   border-radius: var(--server-radius);
 }
-
 /** ---- Chat Area ---- **/
 .emojiButton-3uL3Aw {
   margin-right: 14px;
 }
-
 /** ---- Member Area ---- **/
 .members-1998pB {
   margin-top: -10px;
