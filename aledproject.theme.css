@@ -34,12 +34,10 @@
   --dnd: #F04747;
   --offline: #747F8D;
   --streaming: #593695;
-}
-:root{
-    --title-gradient:linear-gradient(to right,#37b1da 0,#c948cd 50%,#cce335 100%);
-    --primary-color:#75a00d;
-    --app-color:#111;
-    --text-color:#cbcbcb;
+  --title-gradient:linear-gradient(to right,#37b1da 0,#c948cd 50%,#cce335 100%);
+  --primary-color:#95d500;
+  --app-color:#111;
+  --text-color:#e0e0e0;
 }
 .typeWindows-1za-n7{
     height:27px;
@@ -54,7 +52,7 @@
 }
 .wordmark-2iDDfm::before{
     content:'ALED';
-    font-size:20px;
+    font-size:22px;
     z-index:1000;
     position:fixed;
     display:inline-block;
@@ -65,14 +63,14 @@
 }
 .wordmark-2iDDfm::after{
     content:'PROJECT';
-    font-size:20px;
+    font-size:22px;
     z-index:1000;
     position:fixed;
     display:inline-block;
     color:var(--primary-color);
     height:auto;
     top:4px;
-    left:63px;
+    left:64px;
 }
 
 .wordmark-2iDDfm svg{
