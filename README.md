@@ -4,6 +4,10 @@
 ---
 ### Скачать: [DetterDiscord](https://BetterDiscord.app)
 ### Скачать: [Тему](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/Stable/aledproject.theme.css)
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 ---
 ## ТЕМА ALED PROJECT 
 ![](statusmenu.png) ![](profile.png) ![](theme.png) ![](settings.png)
