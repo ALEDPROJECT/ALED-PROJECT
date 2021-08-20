@@ -5,7 +5,7 @@
 ### Скачать: [DetterDiscord](https://BetterDiscord.app)
 ### Скачать: [Тему](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/Stable/aledproject.theme.css)
 Название файла | Ссылки для скачивания |
------------- | ------------- | -------------
+------------ | ------------- | ------------
 BetterDiscord | [Скачать](https://BetterDiscord.app) |
 Тема Stable | [Скачать](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/Stable/aledproject.theme.css) |
 Тема Canary | Скроро... |
