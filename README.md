@@ -7,7 +7,7 @@
 Название файла | Ссылки для скачивания
 ------------ | -------------
 BetterDiscord | [Скачать](https://BetterDiscord.app) - Информация на сайте
-Тема Stable | [Скачать](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/Stable/aledproject.theme.css) - 73.2
+- [ ] Тема Stable | [Скачать](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/Stable/aledproject.theme.css) - 73.2
 Тема Alpha | [Скачать](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/S-14.58/aledproject.theme.css) - 14.58
 ---
 ## ТЕМА ALED PROJECT 
