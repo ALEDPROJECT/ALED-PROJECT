@@ -9,4 +9,4 @@
 #### Тема Alpha [Скачать](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/S-14.58/aledproject.theme.css) - 14.58
 ---
 ## Скриншоты 
-![](https://github.com/ALEDPROJECT/ALED-THEME/blob/main/statusmenu.png) ![](https://github.com/ALEDPROJECT/ALED-THEME/blob/main/profile.png) ![](https://github.com/ALEDPROJECT/ALED-THEME/blob/main/theme.png) ![](https://github.com/ALEDPROJECT/ALED-THEME/blob/main/settings.png)
+![](statusmenu.png) ![](profile.png) ![](theme.png) ![](settings.png)
