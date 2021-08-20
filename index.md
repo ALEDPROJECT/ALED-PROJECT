@@ -1,8 +1,4 @@
-# ТЕМА ALED PROJECT
 ### Discord сервер: [ALED PROJECT](https://discord.gg/rQHRex2)
-### САЙТ [ALED PROJECT](https://aledproject.github.io)
----
-
 ### Скачать: [DetterDiscord](https://BetterDiscord.app)
 ##### Скачать тему: 
 #### Тема Stable [Скачать](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/Stable/aledproject.theme.css) - 73.2
