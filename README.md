@@ -6,11 +6,11 @@
 ### Скачать: [Тему](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/Stable/aledproject.theme.css)
 Название файла | Ссылки для скачивания
 ------------ | -------------
-BetterDiscord | [Скачать](https://BetterDiscord.app)
-Тема Stable | [Скачать](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/Stable/aledproject.theme.css)
-Тема Canary | Скроро...
-Тема Ptb | Скроро...
-Тема Beta | [Скачать](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/S-14.58/aledproject.theme.css)
+BetterDiscord | [Скачать](https://BetterDiscord.app) - Информация на сайте
+Тема Stable | [Скачать](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/Stable/aledproject.theme.css) - Последняя версия
+Тема Canary | 
+Тема Ptb | 
+Тема Beta | [Скачать](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/S-14.58/aledproject.theme.css) - 14.58
 ---
 ## ТЕМА ALED PROJECT 
 ![](statusmenu.png) ![](profile.png) ![](theme.png) ![](settings.png)
