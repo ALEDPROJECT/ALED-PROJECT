@@ -3,7 +3,7 @@
 - [ ] GGFHGGHGHGH
 ---
 ### Скачать: [DetterDiscord](https://BetterDiscord.app)
-
+##### Скачать тему: 
 Название файла | Ссылки для скачивания
 ------------ | -------------
 Тема Stable | [Скачать](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/Stable/aledproject.theme.css) - 73.2
