@@ -6,4 +6,4 @@
 #### Тема Alpha [Скачать](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/S-14.58/aledproject.theme.css) - 14.58
 ---
 ## Скриншоты 
-![](statusmenu.png) ![](profile.png) ![](theme.png) ![](settings.png).
+![](statusmenu.png) ![](profile.png) ![](theme.png) ![](settings.png)
