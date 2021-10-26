@@ -13,7 +13,7 @@
 ##### Скачать тему: ```Дополнение```
 Название файла | Ссылки для скачивания
 ------------ | -------------
-Плагин Gui hide | [Скачать](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/A-14.58/AledGuiHide.plugin.js) - 14.58
+Плагин Gui hide | [Скачать](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/A-14.58/AledGuiHide.plugin.js) - 2.0
 ---
 ## Скриншоты 
 ![](statusmenu.png) ![](profile.png) ![](theme.png) ![](settings.png)
