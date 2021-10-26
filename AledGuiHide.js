@@ -2,7 +2,7 @@
  * @name AledGuiHide
  * @author AledProject
  * @description A simple plugin that allows collapsing various sections of the Discord UI.
- * @version 2.1.1
+ * @version 2.0
  * @authorId 470573716711931905
  * @invite rQHRex2
  * @website https://aledproject.github.io
