@@ -1,5 +1,5 @@
 /**
- * @name CollapsibleUI
+ * @name AledGuiHide
  * @author AledProject
  * @description A simple plugin that allows collapsing various sections of the Discord UI.
  * @version 2.1.1
@@ -13,92 +13,25 @@ module.exports = (() => {
     // Define plugin configuration
     const config = {
         info: {
-            name: 'AledHideGui',
+            name: 'AledGuiHide',
             authors: [{
                 name: 'AledProject',
                 discord_id: '563652755814875146',
                 github_username: 'AledProject'
             }],
-            version: '1.0',
+            version: '2.0',
             description: 'A simple plugin that allows collapsing various sections of the Discord UI.',
             github: 'https://aledproject.github.io',
-            github_raw: ''
+            github_raw: 'https://raw.githubusercontent.com/ALEDPROJECT/ALED-THEME/main/AledGuiHide.js'
         },
         changelog: [{
-            title: '2.1.1',
+            title: 'Обновление',
             items: [
-                'Added ZeresPluginLibrary support'
-            ]
-        }, {
-            title: '2.0.1',
-            items: [
-                'Adjusted some pixel measurements to prevent cutting off the message bar while typing multiline messages'
-            ]
-        }, {
-            title: '2.0.0',
-            items: [
-                'Added a button to collapse the window title bar',
-                'Updated the button icons to be more consistent',
-                'Finished adding transitions to collapsible elements',
-                'Fixed issues with persistent button states',
-                'Actually fixed plugin crashing on reload',
-                'Fixed handling of plugin being disabled'
-            ]
-        }, {
-            title: '1.2.1',
-            items: [
-                'Added a button to collapse the message bar',
-                'Added transitions to some elements',
-                'Improved support for non-english locales',
-                'Improved handling of missing config'
-            ]
-        }, {
-            title: '1.1.1',
-            items: [
-                'Fixed plugin crashing on reload (sorta)'
-            ]
-        }, {
-            title: '1.1.0',
-            items: [
-                'Added persistent button states'
-            ]
-        }, {
-            title: '1.0.0',
-            items: [
-                'Initial release'
+                'Плагин в разработке...'
             ]
         }]
     };
 
-    // Check for ZeresPluginLibrary
-    if (!window.ZeresPluginLibrary) {
-        return class {
-            constructor() { this._config = config; }
-            getName() { return config.info.name; }
-            getAuthor() { return config.info.authors.map(a => a.name).join(', '); }
-            getDescription() { return config.info.description; }
-            getVersion() { return config.info.version; }
-            load() {
-                BdApi.showConfirmationModal(
-                    'Library Missing',
-                    `The library plugin needed for ${config.info.name} is missing. Please click Download Now to install it.`,
-                    {
-                        confirmText: 'Download Now',
-                        cancelText: 'Cancel',
-                        onConfirm: () => {
-                            require('request').get('https://rauenzi.github.io/BDPluginLibrary/release/0PluginLibrary.plugin.js', async (err, _response, body) => {
-                                if (err) {
-                                    return require('electron').shell.openExternal('https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/rauenzi/BDPluginLibrary/master/release/0PluginLibrary.plugin.js');
-                                }
-                                await new Promise(r => require('fs').writeFile(require('path').join(BdApi.Plugins.folder, '0PluginLibrary.plugin.js'), body, r));
-                            });
-                        }
-                });
-            }
-            start() { }
-            stop() { }
-        }
-    }
 
     // Build plugin
     const [Plugin, Api] = ZeresPluginLibrary.buildPlugin(config);
