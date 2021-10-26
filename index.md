@@ -6,7 +6,7 @@
 #### Тема Alpha [Скачать](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/A-14.58/aledproject-alpha.theme.css) - 14.58
 
 ##### Скачать тему: ```Дополнение```
-Плагин Gui hide | [Скачать](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/A-14.58/AledGuiHide.plugin.js) - 2.0
+#### Плагин Gui hide | [Скачать](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/A-14.58/AledGuiHide.plugin.js) - 2.0
 ---
 ## Скриншоты 
 ![](statusmenu.png) ![](profile.png) ![](theme.png) ![](settings.png)
