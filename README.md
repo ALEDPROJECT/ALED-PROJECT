@@ -13,7 +13,7 @@
 ##### Скачать плагины: 
 Название файла | Ссылки для скачивания
 ------------ | -------------
-AledGuiHide | [Скачать](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/A-14.58/aledproject-alpha.theme.css) - 2.0
+Плагин Gui Hide | [Скачать](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/A-14.58/aledproject-alpha.theme.css) - 2.0
 ---
 ## Скриншоты 
 ![](statusmenu.png) ![](profile.png) ![](theme.png) ![](settings.png)
