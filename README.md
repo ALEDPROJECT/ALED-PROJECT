@@ -1,4 +1,5 @@
-# ТЕМА ALED PROJECT (В настоящий момент не работает должным образом)
+# ТЕМА ALED PROJECT 
+(В настоящий момент не работает должным образом)
 ### Discord сервер: [ALED PROJECT](https://discord.gg/rQHRex2)
 ### Наш сайт [ALED PROJECT](https://aledproject.github.io)
 ---
