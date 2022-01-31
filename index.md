@@ -1,4 +1,5 @@
 # # ТЕМА ALED PROJECT
+(В настоящий момент не работает должным образом)
 ### Discord сервер: [ALED PROJECT](https://discord.gg/rQHRex2)
 ### Скачать: [DetterDiscord](https://BetterDiscord.app)
 ---
